@@ -2,4 +2,7 @@
 
 /db/resources/db_auth
 
+/migration/producers/playgroundProducer.js
+/migration/node_modules/*
+
 NOTES
